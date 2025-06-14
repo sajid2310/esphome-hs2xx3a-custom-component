@@ -103,7 +103,7 @@ sensor:
       return {};
     sensors:
       
-#switch:
+switch:
 #  - platform: safe_mode
 #    name: use_safe_mode
 
